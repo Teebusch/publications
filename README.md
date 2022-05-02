@@ -11,7 +11,7 @@ This repository contains a curated list of my research publications. Where I'm c
 
 ## Peer-reviewed Publications
 
-🔓 = *Open access, freely available online*
+🔓 = *Open access, freely available online at the provided link*
 
 #### Busch, T., Brinchmann, E. l., Braeken, J., & Wie, O. B. (2022). Receptive Vocabulary of Children with Bilateral Cochlear Implants from 3 to 16 Years of Age. Ear and Hearing. https://dx.doi.org/10.1097/AUD.0000000000001220 🔓
 
