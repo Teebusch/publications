@@ -6,7 +6,7 @@ This repository contains a curated list of my research publications with a brief
 
 📜 You can also find my research publications on [ResearchGate](https://www.researchgate.net/profile/Tobias-Busch-4)
 
-🔬 I have also peer-reviewed manuscripts for a bunch of journals. You can find an incomplete list [at Publons](https://publons.com/researcher/4522734/tobias-busch) 
+🔬 I have also peer-reviewed manuscripts for various scientific journals: Ear and Hearing, Cochlear Implants International, Journal of Child Language, Frontiers in Psychology, Collabra: Psychology, Human Arenas. You can find an incomplete list [at Publons](https://publons.com/researcher/4522734/tobias-busch) 
 
 
 ## Peer-reviewed Publications
