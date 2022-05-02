@@ -1,6 +1,6 @@
 # Publications
 
-This repository contains a curated list of my research publications. Where I'm certain that the journal allows it, pdf files will also be stored here. Otherwise, feel free to [contact me](https://github.com/Teebusch). 
+This repository contains a curated list of my research publications with a brief summary of their content. Where I'm certain that the journal allows it, pdf files will also be stored here. Otherwise, feel free to [contact me](https://github.com/Teebusch). 
 
 <p><div itemscope itemtype="https://schema.org/Person">&nbsp;<a itemprop="sameAs" content="https://orcid.org/0000-0002-8390-7892" href="https://orcid.org/0000-0002-8390-7892" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-left:.5em;padding-left:7em;" alt="ORCID iD icon">&nbsp;&nbsp;A list of my research publications is on ORCID</a></div></p>
 
