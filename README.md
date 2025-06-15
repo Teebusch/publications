@@ -13,7 +13,7 @@ This repository contains a curated list of my research publications with a brief
 
 🔓 = *Open access, freely available online at the provided link*
 
-#### Language Interventions for School-Aged Children Who Are d/Deaf and Hard of Hearing: A Systematic Review and Meta-Analysis. https://doi.org/10.1044/2025_JSLHR-24-00456 🔓
+#### Jønsberg, A. C., Hovland, T., Busch, T., Wie, O. B., & von Koss Torkildsen, J. (2025). Language Interventions for School-Aged Children Who Are d/Deaf and Hard of Hearing: A Systematic Review and Meta-Analysis. https://doi.org/10.1044/2025_JSLHR-24-00456 🔓
 
 A systematic review and meta-analysis to evaluate the effectiveness of language interventions for school-aged children who are d/Deaf and hard of hearing (DHH). 
 
