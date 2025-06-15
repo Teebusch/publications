@@ -13,6 +13,14 @@ This repository contains a curated list of my research publications with a brief
 
 🔓 = *Open access, freely available online at the provided link*
 
+#### Language Interventions for School-Aged Children Who Are d/Deaf and Hard of Hearing: A Systematic Review and Meta-Analysis. https://doi.org/10.1044/2025_JSLHR-24-00456 🔓
+
+A systematic review and meta-analysis to evaluate the effectiveness of language interventions for school-aged children who are d/Deaf and hard of hearing (DHH). 
+
+<details>
+  <summary>:de:</summary> Ein systematisches Review und eine Metaanalyse von Sprachinterventionen von Schulkindern mit Schwerhörigkeit oder Gehörlosigkeit.
+</details>
+
 #### Busch, T., Brinchmann, E. l., Braeken, J., & Wie, O. B. (2022). Receptive Vocabulary of Children with Bilateral Cochlear Implants from 3 to 16 Years of Age. Ear and Hearing. https://dx.doi.org/10.1097/AUD.0000000000001220 🔓
 
 This study explores the vocabulary performance of children with CI across a wide age range (3 to 16 years of age). It shows a particularly large difference between children with CI and children with typical hearing around the time that they enter primary school. 
@@ -23,7 +31,7 @@ This study explores the vocabulary performance of children with CI across a wide
 
 #### Wie, O. B., von Koss Torkildsen, J., Schauber, S., Busch, T., & Litovsky, R. (2020). Long-term language development in children with early simultaneous bilateral cochlear implants. Ear and Hearing, 41 (5):1294-1305. https://doi.org/10.1097/AUD.0000000000000851 🔓
 
-This is a longitudinal study of the early language development (until 6 years of age) of children who received early bilateral CIs and have no additional deficits. Despite the good starting conditions for language development that these children have, they did appear to fall behind their typical hearing peers towards the end of the age range. A follow-up study is currently in the making. I have contributed to the interpretation of the data and the writing of the manuscript.
+A longitudinal study of the early language development (until 6 years of age) of children who received early bilateral CIs and have no additional deficits. Despite the good starting conditions for language development that these children have, they did appear to fall behind their typical hearing peers towards the end of the age range. A follow-up study is currently in the making. I have contributed to the interpretation of the data and the writing of the manuscript.
 
 <details>
   <summary>:de:</summary> In dieser Längsschnittstudie untersuchten wir die frühe Sprachentwicklung (bis 6 Jahre) von Kindern mit früh implantierten CIs und ohne zusätzliche Einschränkungen. Trotz guter Startbedingungen fielen die Kinder gegen Ende des Untersuchungszeitraums hinter normalhörende Kinder zurück. Eine Folgestudie ist in Arbeit. Ich habe zur Auswertung und Interpretation der Daten beigetragen, sowie zum Schreiben des Manuskripts. 
